@@ -1,1 +1,8 @@
+.transform {
+    transition-duration:2s;
+}
 
+.transition:hover {
+    background-color: cornflower;
+    color: ghostwhite;
+}
